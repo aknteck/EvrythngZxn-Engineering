@@ -1,0 +1,81 @@
+SERVICE ORDER:
+
+A. 
+B. 
+
+DESIGN & DEVELOPMENT (Landing Page +):
+
+A. Image Slider background ***
+B. responsive dropdown navbar
+    a.Home
+    b.Scholorships
+    c.impact
+    d.Ways to Engage
+    e.About us
+C.  "Join Today" Button
+    a. joins as a monthly give
+    b. 
+    
+D. Mission Statement and Vision
+    a. Video
+    
+E. Events calander
+    a.  Charity Auction
+    
+F. Scholarship area
+    a. Nuturing Roots Scholarship
+    
+G. Apply Now Buttpn
+    a. application page [ contact information, document submissions
+
+H. Impact Page
+    
+    
+    
+    
+    
+    
+    
+CHECKLIST (NONPROFIT):
+
+A. Bio - FROM TEXT MESSAGE
+B. Video - Marcus Aurelius Unbrakeable mind
+C. Program 'SEND MAIL' CTA button
+D. Marketing Landing Page
+E. Unlimited Support.[completeing]
+F. fix navbar for about page. match elements to homepage navbar
+***LAUNCH 
+***TEST Version 1
+
+
+
+
+SCRAP-CODE:
+
+A.<b>Nurturing<span> Roots</span></b>
+
+    
+
+
+
+
+REFERENCES:
+
+A. Salvation army
+B. Ludicris Non profit
+C. https://www.monafoundation.org/?gad_source=1&gclid=Cj0KCQjwm5e5BhCWARIsANwm06hWppT58-fmNfGAvmdJAWxm4ZwkBEhz2w15QjejtUaKVV5YVhsf25QaAh9_EALw_wcB
+D. https://www.google.com/search?q=types+of+non+profits&oq=types+of+non+pr&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIJCAUQABgKGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEqAIAsAIA&sourceid=chrome&ie=UTF-8&dlnr=1&ved=2ahUKEwiL143r872JAxX5SjABHRYmLNEQl6ENegQIJhAG&safe=active&ssui=onf
+E. Shecodes.io
+F. https://brightside.me/articles/the-ultimate-color-combinations-cheat-sheet-92405/
+G. https://firespring.com/websites-for-nonprofits/pricing-and-plans/?creative=693618822844&keyword=nonprofit%20website%20cost&matchtype=p&network=g&device=c&gad_source=1&gclid=EAIaIQobChMI7pGK_ui_iQMVqVFHAR3h0AAzEAAYASAAEgIDwvD_BwE
+H. Web3forms
+I. https://bold.org/scholarships/dr-jade-education-scholarship/
+J. https://www.pakcr.org/education?utm_source=google&utm_medium=cpc&utm_campaign=SCP16&gad_source=1&gclid=Cj0KCQiA57G5BhDUARIsACgCYnx2JxFAmcxRPHRgxiWRZbs30R1-SV-YWxU9AQdmQd56czUZNqJBITwaAuLTEALw_wcB
+k. https://codepen.io/jcoulterdesign/pen/arQoER
+l. E-Commerce Landing Page Example by Leonam Silva de Souza
+M. https://www.devry.edu/get-started/tech.html?media_cid=920142225&ca.mp=GOOGLE&cmpid=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&vc=208925&utm_campaign=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&utm_content=208925-pfx&ca.kw=it%20program&ca.target=kwd-361701492957&ca.cr=452803072269&ca.mt=p&cb.device=c&KWID=43700065177348522&SC_1=CjwKCAjwlaTGBhANEiwAoRgXBXxMiSMKgongo47VIhUlw28QkG2IKgYEXnNg8P0KQBJbexG82UDTSRoC9xcQAvD_BwE&SC_2=it%20program&cid=1&utm_medium=cpc&utm_source=google&utm_term=it%20program&locationcode=9010799&gclsrc=aw.ds&ds_rl=1247900&gad_source=1&gad_campaignid=920142225&gbraid=0AAAAADLqhbMC_4ugHX_fy7l_XHGaR1LHj&gclid=CjwKCAjwlaTGBhANEiwAoRgXBXxMiSMKgongo47VIhUlw28QkG2IKgYEXnNg8P0KQBJbexG82UDTSRoC9xcQAvD_BwE
+L. https://codepen.io/baahubali92/pen/wNoMMq
+FOOTNOTES:
+
+A. Mobile breakpoints - 375px
+    * @media (min-width: 375px) {}
